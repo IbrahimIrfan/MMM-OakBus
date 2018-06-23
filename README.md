@@ -1,5 +1,5 @@
 # MMM-OakBus
-Real-time Oakville bus transit for MagicMirror.
+Real-time Oakville bus transit tracking module for MagicMirror.
 
 # Screenshot
 ![](screenshot.png)
