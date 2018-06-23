@@ -1,5 +1,5 @@
 # MMM-OakBus
-Oakville Bus widget for MagicMirror.
+Real-time Oakville bus transit for MagicMirror.
 
 # Screenshot
 ![](screenshot.png)
